@@ -78,7 +78,8 @@ padding: 0;
     margin-bottom: 100px;
     margin-left: 400px;
     margin-right: 400px;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 40px
 }
 .info-img{
     width: 200px;
@@ -118,6 +119,7 @@ padding: 0;
     border-radius: 5px;
     justify-content: space-around;
     align-items: center;
+    flex: 1;
 }
 .CTA-header{
     color: white;
