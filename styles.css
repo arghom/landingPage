@@ -139,3 +139,14 @@ padding: 0;
     border: 3px solid white;
     border-radius: 5px;
 }
+.footer{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 400px;
+}
+.footer-text{
+    color: rgb(178, 172, 172);
+
+}
